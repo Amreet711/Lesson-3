@@ -1,0 +1,8 @@
+age=11
+name="Amreet"
+weight=23.5
+areyou12=False
+age=float(age)
+print(age)
+weight=int(weight)
+print(weight)
