@@ -1,0 +1,12 @@
+#integer
+a=4
+print(type(a))
+#string
+b="Hello"
+print(type(b))
+#float
+c=3.33
+print(type(c))
+#boolean
+d=True 
+print(type(d))
